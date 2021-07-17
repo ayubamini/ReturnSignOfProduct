@@ -1,4 +1,4 @@
-# ReturnSignOfProduct
+# ReturnSignOfProduct (Microsoft Codility exam May 2021)
 Write a function solution that, given an array A of N intergers between (-100 and 100) of the product of all the numbers in the array multiplied together. Assume that N is between 1 and 1000.
 
 For example:
