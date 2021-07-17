@@ -1,0 +1,16 @@
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ReturnSignOfProduct.exe
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ReturnSignOfProduct.deps.json
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ReturnSignOfProduct.runtimeconfig.json
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ReturnSignOfProduct.runtimeconfig.dev.json
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ReturnSignOfProduct.dll
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ref\ReturnSignOfProduct.dll
+D:\Programming\Projects\Git\ReturnSignOfProduct\bin\Debug\net5.0\ReturnSignOfProduct.pdb
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.csprojAssemblyReference.cache
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.AssemblyInfoInputs.cache
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.AssemblyInfo.cs
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.dll
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ref\ReturnSignOfProduct.dll
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.pdb
+D:\Programming\Projects\Git\ReturnSignOfProduct\obj\Debug\net5.0\ReturnSignOfProduct.genruntimeconfig.cache
